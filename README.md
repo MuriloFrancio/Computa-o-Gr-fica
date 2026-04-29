@@ -27,23 +27,38 @@ MSYS2 UCRT64
 g++
 freeglut
 
-Execute o programa passando o arquivo .obj e a textura .bmp:
+## Execute o programa passando o arquivo .obj e a textura .bmp:
 
 ./Trabalho3D_OBJ.exe data/mba1.obj Textures/launch1.bmp
 
-Controles
+## Controles
+
 Tecla / Mouse	Ação
+
 Setas	Rotaciona o objeto em X e Y
+
 Z / X	Rotaciona o objeto em Z
+
 W / A / S / D	Move o objeto na tela
+
 Q / E	Aproxima ou afasta o objeto
-+ / -	Aumenta ou diminui a escala
+
+(+ / -	Aumenta ou diminui a escala)
+
 Scroll do mouse	Aumenta ou diminui a escala
+
 Mouse esquerdo	Rotaciona o objeto
+
 Mouse direito	Move o objeto
+
 1	Liga/desliga a luz 1
+
 2	Liga/desliga a luz 2
+
 3	Liga/desliga a luz 3
+
 T	Liga/desliga a textura
+
 R	Reseta as transformações
+
 ESC	Fecha o programa
